@@ -27,6 +27,7 @@ Brunei,ブルネイ,BN
 Bulgaria,ブルガリア,BG
 Burkina Faso,ブルキナファソ,BF
 Burma,ミャンマー,MM
+Burundi,ブルンジ,BI
 Cabo Verde,カーボベルデ,CV
 Cambodia,カンボジア,KH
 Cameroon,カメルーン,CM
@@ -45,7 +46,7 @@ Cuba,キューバ,CU
 Cyprus,キプロス,CY
 Czechia,チェコ,CZ
 Denmark,デンマーク,DK
-Diamond Princess,ダイヤモンド・プリンセス,
+Diamond Princess,ダイヤモンド・プリンセス（クルーズ船）,DP*
 Djibouti,ジブチ,DJ
 Dominica,ドミニカ国,DM
 Dominican Republic,ドミニカ共和国,DO
@@ -100,7 +101,6 @@ Libya,リビア,LY
 Liechtenstein,リヒテンシュタイン,LI
 Lithuania,リトアニア,LT
 Luxembourg,ルクセンブルク,LU
-MS Zaandam,MS Zaandam（クルーズ船）,
 Madagascar,マダガスカル,MG
 Malaysia,マレーシア,MY
 Maldives,モルディブ,MV
@@ -115,6 +115,7 @@ Mongolia,モンゴル,MN
 Montenegro,モンテネグロ,ME
 Morocco,モロッコ,MA
 Mozambique,モザンビーク,MZ
+MS Zaandam,MSザーンダム（クルーズ船）,MS*
 Namibia,ナミビア,NA
 Nepal,ネパール,NP
 Netherlands,オランダ,NL
@@ -145,6 +146,7 @@ Saudi Arabia,サウジアラビア,SA
 Senegal,セネガル,SN
 Serbia,セルビア,RS
 Seychelles,セーシェル,SC
+Sierra Leone,シエラレオネ,SL
 Singapore,シンガポール,SG
 Slovakia,スロバキア,SK
 Slovenia,スロベニア,SI
@@ -165,12 +167,12 @@ Togo,トーゴ,TG
 Trinidad and Tobago,トリニダード・トバゴ,TT
 Tunisia,チュニジア,TN
 Turkey,トルコ,TR
-US,米国,US
 Uganda,ウガンダ,UG
 Ukraine,ウクライナ,UA
 United Arab Emirates,アラブ首長国連邦,AE
-United Kingdom,イギリス,GB
+United Kingdom,英国,GB
 Uruguay,ウルグアイ,UY
+US,米国,US
 Uzbekistan,ウズベキスタン,UZ
 Venezuela,ベネズエラ,VE
 Vietnam,ベトナム,VN
