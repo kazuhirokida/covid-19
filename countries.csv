@@ -1,184 +1,188 @@
-﻿Country,Japanese,Code,Region
-Afghanistan,アフガニスタン,AF,Asia
-Albania,アルバニア,AL,Europe
-Algeria,アルジェリア,DZ,Africa
-Andorra,アンドラ,AD,Europe
-Angola,アンゴラ,AO,Africa
-Antigua and Barbuda,アンティグア・バーブーダ,AG,Latin America
-Argentina,アルゼンチン,AR,Latin America
-Armenia,アルメニア,AM,Middle East
-Australia,オーストラリア,AU,Oceania
-Austria,オーストリア,AT,Europe
-Azerbaijan,アゼルバイジャン,AZ,Middle East
-Bahamas,バハマ,BS,Latin America
-Bahrain,バーレーン,BH,Middle East
-Bangladesh,バングラデシュ,BD,Asia
-Barbados,バルバドス,BB,Latin America
-Belarus,ベラルーシ,BY,Europe
-Belgium,ベルギー,BE,Europe
-Belize,ベリーズ,BZ,Latin America
-Benin,ベナン,BJ,Africa
-Bhutan,ブータン,BT,Asia
-Bolivia,ボリビア,BO,Latin America
-Bosnia and Herzegovina,ボスニア・ヘルツェゴビナ,BA,Europe
-Botswana,ボツワナ,BW,Africa
-Brazil,ブラジル,BR,Latin America
-Brunei,ブルネイ・ダルサラーム,BN,Asia
-Bulgaria,ブルガリア,BG,Europe
-Burkina Faso,ブルキナファソ,BF,Africa
-Burma,ミャンマー,MM,Asia
-Burundi,ブルンジ,BI,Africa
-Cabo Verde,カーボベルデ,CV,Africa
-Cambodia,カンボジア,KH,Asia
-Cameroon,カメルーン,CM,Africa
-Canada,カナダ,CA,Northern America
-Central African Republic,中央アフリカ,CF,Africa
-Chad,チャド,TD,Africa
-Chile,チリ,CL,Latin America
-China,中国,CN,Asia
-Colombia,コロンビア,CO,Latin America
-Congo (Brazzaville),コンゴ共和国,CG,Africa
-Congo (Kinshasa),コンゴ民主共和国,CD,Africa
-Costa Rica,コスタリカ,CR,Latin America
-Cote d'Ivoire,コートジボワール,CI,Africa
-Croatia,クロアチア,HR,Europe
-Cuba,キューバ,CU,Latin America
-Cyprus,キプロス,CY,Middle East
-Czechia,チェコ,CZ,Europe
-Denmark,デンマーク,DK,Europe
-Diamond Princess,ダイヤモンド・プリンセス（クルーズ船）,DP*,Cruise Liner
-Djibouti,ジブチ,DJ,Africa
-Dominica,ドミニカ,DM,Latin America
-Dominican Republic,ドミニカ共和国,DO,Latin America
-Ecuador,エクアドル,EC,Latin America
-Egypt,エジプト,EG,Africa
-El Salvador,エルサルバドル,SV,Latin America
-Equatorial Guinea,赤道ギニア,GQ,Africa
-Eritrea,エリトリア,ER,Africa
-Estonia,エストニア,EE,Europe
-Eswatini,エスワティニ,SZ,Africa
-Ethiopia,エチオピア,ET,Africa
-Fiji,フィジー,FJ,Oceania
-Finland,フィンランド,FI,Europe
-France,フランス,FR,Europe
-Gabon,ガボン,GA,Africa
-Gambia,ガンビア,GM,Africa
-Georgia,ジョージア,GE,Middle East
-Germany,ドイツ,DE,Europe
-Ghana,ガーナ,GH,Africa
-Greece,ギリシャ,GR,Europe
-Grenada,グレナダ,GD,Latin America
-Guatemala,グアテマラ,GT,Latin America
-Guinea,ギニア,GN,Africa
-Guinea-Bissau,ギニアビサウ,GW,Africa
-Guyana,ガイアナ,GY,Latin America
-Haiti,ハイチ,HT,Latin America
-Holy See,バチカン,VA,Europe
-Honduras,ホンジュラス,HN,Latin America
-Hong Kong,香港,HK,Asia
-Hungary,ハンガリー,HU,Europe
-Iceland,アイスランド,IS,Europe
-India,インド,IN,Asia
-Indonesia,インドネシア,ID,Asia
-Iran,イラン,IR,Asia
-Iraq,イラク,IQ,Middle East
-Ireland,アイルランド,IE,Europe
-Israel,イスラエル,IL,Middle East
-Italy,イタリア,IT,Europe
-Jamaica,ジャマイカ,JM,Latin America
-Japan,日本,JP,Asia
-Jordan,ヨルダン,JO,Middle East
-Kazakhstan,カザフスタン,KZ,Asia
-Kenya,ケニア,KE,Africa
-"Korea, South",韓国,KR,Asia
-Kosovo,コソボ,XK,Europe
-Kuwait,クウェート,KW,Middle East
-Kyrgyzstan,キルギス,KG,Asia
-Laos,ラオス,LA,Asia
-Latvia,ラトビア,LV,Europe
-Lebanon,レバノン,LB,Middle East
-Liberia,リベリア,LR,Africa
-Libya,リビア,LY,Africa
-Liechtenstein,リヒテンシュタイン,LI,Europe
-Lithuania,リトアニア,LT,Europe
-Luxembourg,ルクセンブルク,LU,Europe
-Macau,マカオ,MO,Asia
-Madagascar,マダガスカル,MG,Africa
-Malawi,マラウイ,MW,Africa
-Malaysia,マレーシア,MY,Asia
-Maldives,モルディブ,MV,Asia
-Mali,マリ,ML,Africa
-Malta,マルタ,MT,Europe
-Mauritania,モーリタニア,MR,Africa
-Mauritius,モーリシャス,MU,Africa
-Mexico,メキシコ,MX,Latin America
-Moldova,モルドバ,MD,Europe
-Monaco,モナコ,MC,Europe
-Mongolia,モンゴル,MN,Asia
-Montenegro,モンテネグロ,ME,Europe
-Morocco,モロッコ,MA,Africa
-Mozambique,モザンビーク,MZ,Africa
-MS Zaandam,MSザーンダム（クルーズ船）,MS*,Cruise Liner
-Namibia,ナミビア,NA,Africa
-Nepal,ネパール,NP,Asia
-Netherlands,オランダ,NL,Europe
-New Zealand,ニュージーランド,NZ,Oceania
-Nicaragua,ニカラグア,NI,Latin America
-Niger,ニジェール,NE,Africa
-Nigeria,ナイジェリア,NG,Africa
-North Macedonia,北マケドニア,MK,Europe
-Norway,ノルウェー,NO,Europe
-Oman,オマーン,OM,Middle East
-Pakistan,パキスタン,PK,Asia
-Panama,パナマ,PA,Latin America
-Papua New Guinea,パプアニューギニア,PG,Oceania
-Paraguay,パラグアイ,PY,Latin America
-Peru,ペルー,PE,Latin America
-Philippines,フィリピン,PH,Asia
-Poland,ポーランド,PL,Europe
-Portugal,ポルトガル,PT,Europe
-Qatar,カタール,QA,Middle East
-Romania,ルーマニア,RO,Europe
-Russia,ロシア,RU,Europe
-Rwanda,ルワンダ,RW,Africa
-Saint Kitts and Nevis,セントクリストファー・ネービス,KN,Latin America
-Saint Lucia,セントルシア,LC,Latin America
-Saint Vincent and the Grenadines,セントビンセント・グレナディーン,VC,Latin America
-San Marino,サンマリノ,SM,Europe
-Saudi Arabia,サウジアラビア,SA,Middle East
-Senegal,セネガル,SN,Africa
-Serbia,セルビア,RS,Europe
-Seychelles,セーシェル,SC,Africa
-Sierra Leone,シエラレオネ,SL,Africa
-Singapore,シンガポール,SG,Asia
-Slovakia,スロバキア,SK,Europe
-Slovenia,スロベニア,SI,Europe
-Somalia,ソマリア,SO,Africa
-South Africa,南アフリカ,ZA,Africa
-Spain,スペイン,ES,Europe
-Sri Lanka,スリランカ,LK,Asia
-Sudan,スーダン,SD,Africa
-Suriname,スリナム,SR,Latin America
-Sweden,スウェーデン,SE,Europe
-Switzerland,スイス,CH,Europe
-Syria,シリア,SY,Middle East
-Taiwan*,台湾,TW,Asia
-Tanzania,タンザニア,TZ,Africa
-Thailand,タイ,TH,Asia
-Timor-Leste,東ティモール,TL,Asia
-Togo,トーゴ,TG,Africa
-Trinidad and Tobago,トリニダード・トバゴ,TT,Latin America
-Tunisia,チュニジア,TN,Africa
-Turkey,トルコ,TR,Middle East
-Uganda,ウガンダ,UG,Africa
-Ukraine,ウクライナ,UA,Europe
-United Arab Emirates,アラブ首長国連邦,AE,Middle East
-United Kingdom,英国,GB,Europe
-Uruguay,ウルグアイ,UY,Latin America
-US,米国,US,Northern America
-Uzbekistan,ウズベキスタン,UZ,Asia
-Venezuela,ベネズエラ,VE,Latin America
-Vietnam,ベトナム,VN,Asia
-West Bank and Gaza,パレスチナ,PS,Middle East
-Zambia,ザンビア,ZM,Africa
-Zimbabwe,ジンバブエ,ZW,Africa
+﻿Country,Japanese,Code,Region,latlong
+Iceland,アイスランド,IS,Europe,"64.839,-18.588"
+Ireland,アイルランド,IE,Europe,"53.430,-7.927"
+Azerbaijan,アゼルバイジャン,AZ,Middle East,"40.463,47.893"
+Afghanistan,アフガニスタン,AF,Asia,"34.061,66.072"
+United Arab Emirates,アラブ首長国連邦,AE,Middle East,"24.496,54.378"
+Algeria,アルジェリア,DZ,Africa,"28.723,2.868"
+Argentina,アルゼンチン,AR,Latin America,"-37.837,-65.301"
+Albania,アルバニア,AL,Europe,"41.246,19.809"
+Armenia,アルメニア,AM,Middle East,"40.529,44.741"
+Angola,アンゴラ,AO,Africa,"-12.768,15.743"
+Antigua and Barbuda,アンティグア・バーブーダ,AG,Latin America,"17.084,-61.808"
+Andorra,アンドラ,AD,Europe,"42.510,1.522"
+Yemen,イエメン,YE,Middle East,"15.556,47.401"
+Israel,イスラエル,IL,Middle East,"32.166,34.762"
+Italy,イタリア,IT,Europe,"41.685,14.731"
+Iraq,イラク,IQ,Middle East,"33.178,43.768"
+Iran,イラン,IR,Asia,"31.903,54.352"
+India,インド,IN,Asia,"21.689,78.646"
+Indonesia,インドネシア,ID,Asia,"-6.198,106.845"
+Uganda,ウガンダ,UG,Africa,"1.987,32.534"
+Ukraine,ウクライナ,UA,Europe,"49.184,32.085"
+Uzbekistan,ウズベキスタン,UZ,Asia,"41.538,63.973"
+Uruguay,ウルグアイ,UY,Latin America,"-32.858,-55.967"
+Ecuador,エクアドル,EC,Latin America,"-1.551,-78.904"
+Egypt,エジプト,EG,Africa,"26.643,30.255"
+Estonia,エストニア,EE,Europe,"58.732,25.764"
+Eswatini,エスワティニ,SZ,Africa,"-26.501,31.507"
+Ethiopia,エチオピア,ET,Africa,"9.134,39.319"
+Eritrea,エリトリア,ER,Africa,"16.192,38.690"
+El Salvador,エルサルバドル,SV,Latin America,"13.622,-88.957"
+Australia,オーストラリア,AU,Oceania,"-23.395,133.784"
+Austria,オーストリア,AT,Europe,"47.567,14.251"
+Oman,オマーン,OM,Middle East,"20.181,56.732"
+Netherlands,オランダ,NL,Europe,"52.266,5.535"
+Ghana,ガーナ,GH,Africa,"7.951,-1.126"
+Cabo Verde,カーボベルデ,CV,Africa,"15.141,-23.681"
+Guyana,ガイアナ,GY,Latin America,"6.404,-58.624"
+Kazakhstan,カザフスタン,KZ,Asia,"48.277,68.389"
+Qatar,カタール,QA,Middle East,"25.355,51.183"
+Canada,カナダ,CA,Northern America,"56.898,-111.281"
+Gabon,ガボン,GA,Africa,"-0.310,11.705"
+Cameroon,カメルーン,CM,Africa,"3.940,11.589"
+Gambia,ガンビア,GM,Africa,"13.369,-16.414"
+Cambodia,カンボジア,KH,Asia,"12.789,104.909"
+Guinea,ギニア,GN,Africa,"10.901,-11.0322"
+Guinea-Bissau,ギニアビサウ,GW,Africa,"12.035,-14.971"
+Cyprus,キプロス,CY,Middle East,"34.967,33.109"
+Cuba,キューバ,CU,Latin America,"21.923,-79.446"
+Greece,ギリシャ,GR,Europe,"39.337,21.994"
+Kyrgyzstan,キルギス,KG,Asia,"41.582,74.597"
+Guatemala,グアテマラ,GT,Latin America,"15.657,-89.952"
+Kuwait,クウェート,KW,Middle East,"29.379,47.950"
+Grenada,グレナダ,GD,Latin America,"12.099,-61.681"
+Croatia,クロアチア,HR,Europe,"44.805,15.320"
+Kenya,ケニア,KE,Africa,"0.527,37.845"
+Cote d'Ivoire,コートジボワール,CI,Africa,"6.814,-5.296"
+Costa Rica,コスタリカ,CR,Latin America,"9.950,-84.105"
+Kosovo,コソボ,XK,Europe,"42.662,21.158"
+Colombia,コロンビア,CO,Latin America,"4.653,-73.781"
+Congo (Brazzaville),コンゴ共和国,CG,Africa,"-0.575,15.692"
+Congo (Kinshasa),コンゴ民主共和国,CD,Africa,"-1.833,23.300"
+Saudi Arabia,サウジアラビア,SA,Middle East,"24.431,44.564"
+Sao Tome and Principe,サントメ・プリンシペ,ST,Africa,"0.241,6.619"
+Zambia,ザンビア,ZM,Africa,"-14.472,28.828"
+San Marino,サンマリノ,SM,Europe,"43.934,12.447"
+Sierra Leone,シエラレオネ,SL,Africa,"8.605,-11.792"
+Djibouti,ジブチ,DJ,Africa,"11.677,42.626"
+Jamaica,ジャマイカ,JM,Latin America,"18.251,-77.413"
+Georgia,ジョージア,GE,Middle East,"42.002,43.558"
+Syria,シリア,SY,Middle East,"33.540,36.331"
+Singapore,シンガポール,SG,Asia,"1.323,103.908"
+Zimbabwe,ジンバブエ,ZW,Africa,"-19.696,30.073"
+Sudan,スーダン,SD,Africa,"16.132,30.377"
+Switzerland,スイス,CH,Europe,"46.901,8.242"
+Sweden,スウェーデン,SE,Europe,"60.413,15.589"
+Spain,スペイン,ES,Europe,"40.939,-3.537"
+Suriname,スリナム,SR,Latin America,"3.901,-55.574"
+Sri Lanka,スリランカ,LK,Asia,"7.324,80.699"
+Slovakia,スロバキア,SK,Europe,"48.728,19.594"
+Slovenia,スロベニア,SI,Europe,"46.103,14.831"
+Seychelles,セーシェル,SC,Africa,"-4.689,55.481"
+Senegal,セネガル,SN,Africa,"15.088,-14.897"
+Serbia,セルビア,RS,Europe,"43.773,20.889"
+Saint Kitts and Nevis,セントクリストファー・ネービス,KN,Latin America,"17.372,-62.795"
+Saint Vincent and the Grenadines,セントビンセント・グレナディーン,VC,Latin America,"13.165,-61.227"
+Saint Lucia,セントルシア,LC,Latin America,"14.005,-60.984"
+Somalia,ソマリア,SO,Africa,"3.379,45.597"
+Thailand,タイ,TH,Asia,"15.547,101.347"
+Tanzania,タンザニア,TZ,Africa,"-6.181,35.749"
+Czechia,チェコ,CZ,Europe,"49.767,15.370"
+Chad,チャド,TD,Africa,"15.654,18.612"
+Tunisia,チュニジア,TN,Africa,"34.139,9.517"
+Chile,チリ,CL,Latin America,"-33.114,-71.075"
+Denmark,デンマーク,DK,Europe,"56.149,9.278"
+Togo,トーゴ,TG,Africa,"8.386,1.071"
+Germany,ドイツ,DE,Europe,"51.163,10.631"
+Dominica,ドミニカ,DM,Latin America,"15.452,-61.346"
+Dominican Republic,ドミニカ共和国,DO,Latin America,"18.902,-70.433"
+Trinidad and Tobago,トリニダード・トバゴ,TT,Latin America,"10.444,-61.266"
+Turkey,トルコ,TR,Middle East,"39.869,32.841"
+Nigeria,ナイジェリア,NG,Africa,"9.562,7.803"
+Namibia,ナミビア,,Africa,"-22.721,16.990"
+Nicaragua,ニカラグア,NI,Latin America,"12.861,-85.172"
+Niger,ニジェール,NE,Africa,"18.069,9.649"
+New Zealand,ニュージーランド,NZ,Oceania,"-41.269,174.759"
+Nepal,ネパール,NP,Asia,"27.845,85.423"
+Norway,ノルウェー,NO,Europe,"61.249,8.906"
+Bahrain,バーレーン,BH,Middle East,"26.131,50.545"
+Haiti,ハイチ,HT,Latin America,"19.151,-72.326"
+Pakistan,パキスタン,PK,Asia,"29.723,69.189"
+Holy See,バチカン,VA,Europe,"41.903,12.452"
+Panama,パナマ,PA,Latin America,"8.814,-80.223"
+Bahamas,バハマ,BS,Latin America,"24.586,-77.964"
+Papua New Guinea,パプアニューギニア,PG,Oceania,"-5.690,143.400"
+Paraguay,パラグアイ,PY,Latin America,"-22.561,-59.070"
+Barbados,バルバドス,BB,Latin America,"13.162,-59.554"
+West Bank and Gaza,パレスチナ,PS,Middle East,"31.948,35.257"
+Hungary,ハンガリー,HU,Europe,"47.194,19.338"
+Bangladesh,バングラデシュ,BD,Asia,"23.661,89.914"
+Bhutan,ブータン,BT,Asia,"27.538,90.314"
+Fiji,フィジー,FJ,Oceania,"-17.665,177.975"
+Philippines,フィリピン,PH,Asia,"12.011,123.885"
+Finland,フィンランド,FI,Europe,"63.139,25.796"
+Brazil,ブラジル,BR,Latin America,"-11.047,-51.823"
+France,フランス,FR,Europe,"47.142,2.414"
+Bulgaria,ブルガリア,BG,Europe,"42.671,25.217"
+Burkina Faso,ブルキナファソ,BF,Africa,"12.524,-1.855"
+Brunei,ブルネイ・ダルサラーム,BN,Asia,"4.552,114.592"
+Burundi,ブルンジ,BI,Africa,"-3.454,29.947"
+Vietnam,ベトナム,VN,Asia,"14.487,108.523"
+Benin,ベナン,BJ,Africa,"9.359,2.611"
+Venezuela,ベネズエラ,VE,Latin America,"6.906,-65.330"
+Belarus,ベラルーシ,BY,Europe,"53.640,27.981"
+Belize,ベリーズ,BZ,Latin America,"17.147,-88.722"
+Peru,ペルー,PE,Latin America,"-11.097,-75.230"
+Belgium,ベルギー,BE,Europe,"50.851,4.347"
+Poland,ポーランド,PL,Europe,"51.887,19.514"
+Bosnia and Herzegovina,ボスニア・ヘルツェゴビナ,BA,Europe,"44.194,17.903"
+Botswana,ボツワナ,BW,Africa,"-21.980,23.662"
+Bolivia,ボリビア,BO,Latin America,"-15.697,-64.875"
+Portugal,ポルトガル,PT,Europe,"39.479,-8.240"
+Honduras,ホンジュラス,HN,Latin America,"14.686,-87.092"
+Macau,マカオ,MO,Asia,"22.159,113.564"
+Madagascar,マダガスカル,MG,Africa,"-18.923,47.525"
+Malawi,マラウイ,MW,Africa,"-13.371,33.939"
+Mali,マリ,ML,Africa,"16.701,-2.955"
+Malta,マルタ,MT,Europe,"35.887,14.447"
+Malaysia,マレーシア,MY,Asia,"3.847,102.442"
+Burma,ミャンマー,MM,Asia,"21.902,96.098"
+Mexico,メキシコ,MX,Latin America,"23.128,-101.979"
+Mauritius,モーリシャス,MU,Africa,"-20.274,57.580"
+Mauritania,モーリタニア,MR,Africa,"20.010,-10.264"
+Mozambique,モザンビーク,MZ,Africa,"-17.589,36.085"
+Monaco,モナコ,MC,Europe,"43.733,7.419"
+Maldives,モルディブ,MV,Asia,"-0.620,73.095"
+Moldova,モルドバ,MD,Europe,"47.331,28.596"
+Morocco,モロッコ,MA,Africa,"32.639,-7.386"
+Mongolia,モンゴル,MN,Asia,"46.622,102.503"
+Montenegro,モンテネグロ,ME,Europe,"42.847,19.212"
+Jordan,ヨルダン,JO,Middle East,"31.576,36.200"
+Laos,ラオス,LA,Asia,"19.682,102.373"
+Latvia,ラトビア,LV,Europe,"57.045,25.237"
+Lithuania,リトアニア,LT,Europe,"55.344,24.016"
+Libya,リビア,LY,Africa,"26.991,17.419"
+Liechtenstein,リヒテンシュタイン,LI,Europe,"47.130,9.563"
+Liberia,リベリア,LR,Africa,"6.529,-10.352"
+Romania,ルーマニア,RO,Europe,"46.474,24.582"
+Luxembourg,ルクセンブルク,LU,Europe,"49.775,6.108"
+Rwanda,ルワンダ,RW,Africa,"-1.956,29.983"
+Lebanon,レバノン,LB,Middle East,"33.828,35.719"
+Russia,ロシア,RU,Europe,"62.204,99.919"
+China,中国,CN,Asia,"30.589,114.315"
+Central African Republic,中央アフリカ,CF,Africa,"6.783,20.400"
+North Macedonia,北マケドニア,MK,Europe,"41.647,21.690"
+South Africa,南アフリカ,ZA,Africa,"-29.487,24.623"
+South Sudan,南スーダン,SS,Africa,"7.007,30.115"
+Taiwan*,台湾,TW,Asia,"24.014,121.111"
+Japan,日本,JP,Asia,"35.692,139.739"
+Timor-Leste,東ティモール,TL,Asia,"-8.831,125.684"
+US,米国,US,Northern America,"38.460,-98.721"
+United Kingdom,英国,GB,Europe,"52.695,-1.023"
+Western Sahara,西サハラ,EH,Africa,"24.860,-13.674"
+Equatorial Guinea,赤道ギニア,GQ,Africa,"1.571,10.454"
+"Korea, South",韓国,KR,Asia,"36.572,127.613"
+Hong Kong,香港,HK,Asia,"22.287,114.143"
+Diamond Princess,ダイヤモンド・プリンセス（クルーズ船）,DP*,Cruise Liner,"34.000,143.000"
+MS Zaandam,MSザーンダム（クルーズ船）,MS*,Cruise Liner,
