@@ -52,7 +52,7 @@ response = requests.post(
         'https://api.mailgun.net/v3/mg.dataeditor.work/messages',
         auth=('api',os.environ.get('MAILGUN_API_KEY')),
         files=[('attachment',open('data/JHU_Update_'+datetime.today().strftime('%Y%m%d')+'.csv','rb'))],
-        data={'from'::os.environ.get('EMAIL_SENDER'),
+        data={'from':os.environ.get('EMAIL_SENDER'),
               'to':[os.environ.get('EMAIL_RECIPIENT')],
               'subject': 'JHU Update '+datetime.today().strftime('%Y-%m-%d'),
               'text': 'Updated at '+datetime.today().strftime('%Y-%m-%d %H:%M')+'UTC'})
