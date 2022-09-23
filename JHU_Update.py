@@ -46,13 +46,13 @@ table2.columns = pd.MultiIndex.from_product([[''],table2.columns])
 
 table = pd.concat([table1.iloc[:,0],table2.iloc[:,1:]],axis=1)
 
-table.to_csv('data/JHU_Update_'+datetime.today().strftime('%Y%m%d')+'.csv',encoding='utf-8-sig',index=False,line_terminator='\r\n')
+table.to_csv('data/'+(datetime.today() - timedelta(days=1)).strftime('%Y%m%d')+'_JHU_Update.csv',encoding='utf-8-sig',index=False,line_terminator='\r\n')
 
 response = requests.post(
         'https://api.mailgun.net/v3/mg.dataeditor.work/messages',
         auth=('api',os.environ.get('MAILGUN_API_KEY')),
-        files=[('attachment',open('data/JHU_Update_'+datetime.today().strftime('%Y%m%d')+'.csv','rb'))],
+        files=[('attachment',open('data/'+(datetime.today() - timedelta(days=1)).strftime('%Y%m%d')+'_JHU_Update.csv','rb'))],
         data={'from':os.environ.get('EMAIL_SENDER'),
               'to':[os.environ.get('EMAIL_RECIPIENT')],
-              'subject': 'JHU Update '+datetime.today().strftime('%Y-%m-%d'),
-              'text': 'Updated at '+datetime.today().strftime('%Y-%m-%d %H:%M')+'UTC'})
+              'subject': 'JHU Update '+(datetime.today() - timedelta(days=1)).strftime('%Y-%m-%d'),
+              'text': 'Updated at '+(datetime.today() + timedelta(hours=9)).strftime('%Y-%m-%d %H:%M')+'JST'})
