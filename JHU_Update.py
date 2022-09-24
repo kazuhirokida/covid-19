@@ -46,7 +46,7 @@ table2.columns = pd.MultiIndex.from_product([[''],table2.columns])
 
 table = pd.concat([table1.iloc[:,0],table2.iloc[:,1:]],axis=1)
 
-table.to_csv('data/'+(datetime.today() - timedelta(days=1)).strftime('%Y%m%d')+'_JHU_Update.csv',encoding='utf-8-sig',index=False,line_terminator='\r\n')
+table.to_csv('data/'+(datetime.today() - timedelta(days=1)).strftime('%Y%m%d')+'_JHU_Update.csv',encoding='utf-8-sig',index=False,lineterminator='\r\n')
 
 response = requests.post(
         'https://api.mailgun.net/v3/mg.dataeditor.work/messages',
